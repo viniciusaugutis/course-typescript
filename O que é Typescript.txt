@@ -1,0 +1,20 @@
+-Typescript é uma linguagem de programação criada pela Microsoft
+-É um superset do javascript da versão ES6. Um SuperConjunto dele.
+
+-Ele é de tipagem estática, ou seja, uma variável sempre é do mesmo tipo.
+Já no javascript a tipagem é dinâmica, pode ser de mais de um tipo.
+
+-Adiciona conceitos de orientação a objetos (classes, métodos, etc)
+
+-Usada tanto no cliente quanto no servidor (com node js).
+
+-Browsers não entendem Typescript, por isso o Typescript é transformado em javascript para
+que eles entendem. Esse processo é chamado de Transpilação (Compilação + Transformação)
+
+-Surgiu para facilitar a nossa vida, para criar códigos mais fáceis de entender e dar manutenção
+
+ES5, ES6 significa javascript. ES5 e ES6 é a forma oficial. Javascript é o nome mais usado.
+
+ES5 é a forma padrão 
+ES6 é a nova versão que surgiu, que foi adicionado novas coisas, como classes, etc.
+E depois disso veio o Typescript que engloba tudo isso, o ES5 e ES6.
